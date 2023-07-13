@@ -8,7 +8,7 @@ Description.
 
 ### Paper 2
 
-Description
+Description.
 
 ### Paper 3
 
@@ -26,4 +26,4 @@ Description.
 
 ### Ongoing study 1
 
-Description
+Description.
