@@ -1,7 +1,5 @@
 ## Selected publications
 
----
-
 ### Paper 1
 
 Description.
@@ -17,8 +15,6 @@ Description.
 ---
 
 ## Current work
-
----
 
 ### Ongoing project 1
 
